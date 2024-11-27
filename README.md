@@ -10,5 +10,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [1250-longest-common-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
