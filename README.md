@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,9 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Math
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
