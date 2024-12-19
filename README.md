@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
@@ -94,9 +97,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
