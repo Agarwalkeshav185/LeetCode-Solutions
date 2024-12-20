@@ -12,39 +12,26 @@
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
-        vector<vector<int>> levels;
         queue<TreeNode*> stk;
         stk.push(root);
+        int levi=0;
         while(!stk.empty()){
             int size = stk.size();
-            vector<int> level;
+            vector<TreeNode*> lev;
             for(int i=0; i<size; i++){
                 TreeNode* temp = stk.front();
-                level.push_back(temp->val);
+                lev.push_back(temp);
                 stk.pop();
                 if(temp->left) stk.push(temp->left);
                 if(temp->right) stk.push(temp->right);
             }
-            levels.push_back(level);
+            if(levi%2){
+                for(int k=0; k< lev.size()/2; k++){
+                    swap(lev[k]->val, lev[lev.size()-1-k]->val);
+                }
+            }
+            levi++;
         } 
-        for(int i=0;i<levels.size(); i++){
-            if(i%2){
-                reverse(levels[i].begin(), levels[i].end());
-            }
-        }
-        stk.push(root);
-        int level=0;
-        while(!stk.empty()){
-            int size = stk.size();
-            for(int i=0;i<size; i++){
-                TreeNode* temp = stk.front();
-                temp->val = levels[level][i];
-                stk.pop();
-                if(temp->left) stk.push(temp->left);
-                if(temp->right) stk.push(temp->right);
-            }
-            level++;
-        }
         return root;
     }
 };
