@@ -17,7 +17,7 @@ int solve(int i, int target, vector<int>&nums, vector<vector<int>> &dp){
         int n = nums.size();
         int total = 0;
         for(int i=0;i<n; i++) total += nums[i];
-
+        if(total-target < 0 || (total-target)%2) return 0;
         int t = (total-target) /2;
         vector<vector<int>> dp(n, vector<int>(t+1,-1));
         return solve(n-1, (total-target)/2, nums, dp);
