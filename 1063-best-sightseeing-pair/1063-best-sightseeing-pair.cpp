@@ -8,7 +8,6 @@ public:
         for(int i=0;i<n; i++){
             maxi[i] = maxii;
             maxii = max(maxii, values[i]+i);
-            cout<<maxi[i]<<" ";
         }
         int ans=0;
         for(int i=n-1; i>0; i--){
