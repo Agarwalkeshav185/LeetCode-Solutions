@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1063-best-sightseeing-pair](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Array
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
