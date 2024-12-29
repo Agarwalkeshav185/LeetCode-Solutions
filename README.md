@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Two Pointers
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
