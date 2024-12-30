@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Array
 |  |
 | ------- |
