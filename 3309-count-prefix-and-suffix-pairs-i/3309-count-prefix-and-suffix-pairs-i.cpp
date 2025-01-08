@@ -1,14 +1,12 @@
 class Solution {
 public:
     bool isprefixandsuffix(string str1, string str2){
-        int n = str1.size();
-        int m = str2.size();
-        if(n > m) return 0;
-        bool t1 = true;
+        int n = str1.size(), m = str2.size();
+        if(n > m) return false;
         for(int i=0;i<n; i++){
-            if(str1[i] != str2[i] || str1[n-i-1] != str2[m-1-i]) t1 = false;
+            if(str1[i] != str2[i] || str1[n-i-1] != str2[m-1-i]) return false;
         }
-        return t1;
+        return true;
     }
     int countPrefixSuffixPairs(vector<string>& words) {
         int n = words.size();
