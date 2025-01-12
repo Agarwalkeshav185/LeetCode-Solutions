@@ -25,6 +25,7 @@ public:
             int dis = q.front().second;
             q.pop();
             vis[nodex][nodey] = 1;
+            ans[nodex][nodey] = dis;
 
             for(int i=0;i<4; i++){
                 int x = nodex + delrow[i];
