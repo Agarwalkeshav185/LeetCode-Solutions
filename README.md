@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -244,8 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Brainteaser
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
