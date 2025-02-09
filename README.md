@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -269,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [1558-course-schedule-iv](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
