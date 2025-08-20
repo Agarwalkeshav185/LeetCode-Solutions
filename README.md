@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0878-shifting-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0878-shifting-letters) |
+| [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 | [0952-word-subsets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 | [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Iterator
+|  |
+| ------- |
+| [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 <!---LeetCode Topics End-->
