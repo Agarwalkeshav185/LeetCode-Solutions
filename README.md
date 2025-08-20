@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1390-average-selling-price) |
 | [1827-invalid-tweets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
