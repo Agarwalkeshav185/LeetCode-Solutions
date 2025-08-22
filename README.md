@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Counting
 |  |
 | ------- |
