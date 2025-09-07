@@ -8,9 +8,6 @@ public:
             ans[n-i-1] = cnt;
             cnt--;
         }
-        for(int i=0;i<n; i++){
-            cout<<ans[i]<<endl;
-        }
         return ans;
     }
 };
