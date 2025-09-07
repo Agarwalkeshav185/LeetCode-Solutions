@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
