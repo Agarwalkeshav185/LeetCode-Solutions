@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
 | ------- |
