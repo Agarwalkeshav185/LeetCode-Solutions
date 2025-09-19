@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 | [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
