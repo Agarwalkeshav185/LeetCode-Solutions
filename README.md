@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1558-course-schedule-iv](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
