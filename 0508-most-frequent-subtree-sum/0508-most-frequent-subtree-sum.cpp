@@ -11,31 +11,26 @@
  */
 class Solution {
 public:
-    int inorder(TreeNode* root, map<int,int, greater<int>>& count){
+    int maxfreq = 0;
+    int inorder(TreeNode* root, unordered_map<int,int>& count){
         if(root== NULL) return 0;
         int sum = root->val;
         sum += inorder(root->left, count);
         sum += inorder(root->right, count);
         count[sum]++;
+        maxfreq = max(maxfreq, count[sum]);
         return sum;
 
     }
     vector<int> findFrequentTreeSum(TreeNode* root) {
-        map<int,int, greater<int>> count;
-        priority_queue<pair<int, int>> pq;
+        unordered_map<int,int> count;
         inorder(root, count);
         vector<int> ans;
         
         for(auto it : count){
-            pq.push({it.second, it.first});
-        }
-        int counti = pq.top().first;
-        while(!pq.empty()){
-            if(counti != pq.top().first){
-                break;
+            if(maxfreq == it.second){
+                ans.push_back(it.first);
             }
-            ans.push_back(pq.top().second);
-            pq.pop();
         }
         return ans;
     }
