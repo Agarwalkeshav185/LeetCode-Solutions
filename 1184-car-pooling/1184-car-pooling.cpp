@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        int passengers = 0;
         vector<int> count(1001, 0);
         int n = trips.size();
         for(int i=0; i<n; i++){
