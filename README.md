@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1206-corporate-flight-bookings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-diagonal-traverse-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-diagonal-traverse-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1184-car-pooling) |
+| [1539-diagonal-traverse-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1539-diagonal-traverse-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
