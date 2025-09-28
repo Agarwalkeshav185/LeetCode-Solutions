@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
 | [0952-word-subsets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1041-available-captures-for-rook) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
