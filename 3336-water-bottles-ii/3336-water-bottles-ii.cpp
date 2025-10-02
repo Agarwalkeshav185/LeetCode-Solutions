@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxBottlesDrunk(int full, int change) {
-        int ans=full;
+        int ans = full;
         int emp = full;
         full=0;
         while( (emp+full) >= change){
@@ -18,6 +18,5 @@ public:
             ans+=full;
         }
         return ans;
-
     }
 };
