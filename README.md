@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1184-car-pooling) |
 | [1539-diagonal-traverse-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1539-diagonal-traverse-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
