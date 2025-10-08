@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
