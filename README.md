@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
