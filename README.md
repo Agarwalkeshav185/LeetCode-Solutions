@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
