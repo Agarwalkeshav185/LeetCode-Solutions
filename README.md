@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
