@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Array
 |  |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2509-minimize-xor) |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
