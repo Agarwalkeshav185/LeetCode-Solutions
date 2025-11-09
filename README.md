@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
