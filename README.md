@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
