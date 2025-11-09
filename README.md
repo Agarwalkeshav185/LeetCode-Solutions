@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-most-profit-assigning-work](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
