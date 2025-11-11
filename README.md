@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
