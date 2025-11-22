@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -613,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
