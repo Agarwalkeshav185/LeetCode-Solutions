@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0768-partition-labels](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
