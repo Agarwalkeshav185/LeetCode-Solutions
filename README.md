@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
