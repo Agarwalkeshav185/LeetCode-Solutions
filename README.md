@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3531-count-covered-buildings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3531-count-covered-buildings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
