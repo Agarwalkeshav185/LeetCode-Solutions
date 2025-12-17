@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Array
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
