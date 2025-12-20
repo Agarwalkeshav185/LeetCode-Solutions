@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0878-shifting-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1170-shortest-common-supersequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0878-shifting-letters](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0878-shifting-letters) |
 | [0936-rle-iterator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0936-rle-iterator) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
