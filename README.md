@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Agarwalkeshav185/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
